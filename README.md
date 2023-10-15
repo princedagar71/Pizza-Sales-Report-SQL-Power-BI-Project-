@@ -1,4 +1,4 @@
-# Pizza-Sales-Report-SQL-Power-BI-Project-
+# Pizza Sales Report SQL Power BI Project
 
 SQL & Power BI Project to analyze & visualize data.
 
